@@ -36,7 +36,7 @@ The resulting output need not be factually false. It can be useful in isolation 
 - A factual error fails a standard of truth, evidence, logic, calculation, or source consistency.
 - A fidelity error fails to preserve the user's authorized objectives, definitions, constraints, decisions, or design.
 
-The broader conceptual note, [Model Error and Mitigation in Generative AI](../../Research-Notes/Model-Error-and-Mitigation.md), organizes model error around representational limitation, generative-path instability, and operative-context limitation, with detection and containment as a complementary fourth layer. Objective and design drift is treated here as a particular longitudinal fidelity problem within that broader framework.
+The broader conceptual note, [A Three-Layer Framework for Generative-AI Error](../../Research-Notes/Three-Layer-Framework-for-Generative-AI-Error.md), organizes model error around representational limitation, generative-path instability, and operative-context limitation, with detection and containment as a separate control layer. Objective and design drift is treated here as a particular longitudinal fidelity problem within that broader framework.
 
 ## 2. Problem Statement
 
