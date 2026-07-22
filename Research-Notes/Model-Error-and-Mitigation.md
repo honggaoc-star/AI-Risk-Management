@@ -1,7 +1,8 @@
-Model-Error-and-Mitigation.md
-
-
 # Model Error and Mitigation in Generative AI
+
+> **Superseded — July 2026.** This exploratory note has been replaced by
+> [A Three-Layer Framework for Generative-AI Error](./Three-Layer-Framework-for-Generative-AI-Error.md).
+> It is retained as a historical record of the discussion that led to the revised framework.
 
 ## Status
 

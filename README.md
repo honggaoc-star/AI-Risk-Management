@@ -148,7 +148,8 @@ AI-Risk-Management/
 │       ├── Mini-Model-Architecture.md
 │       └── Preliminary-Evaluation-Design.md
 ├── Research-Notes/
-│   └── Model-Error-and-Mitigation.md
+│   ├── Three-Layer-Framework-for-Generative-AI-Error.md
+│   └── Model-Error-and-Mitigation.md  # superseded historical note
 ├── REFERENCES.md
 ├── ROADMAP.md
 └── LICENSE
