@@ -116,7 +116,7 @@ anchor_type: objective
 statement: Preserve the user's governing research design across extended work.
 status: active
 authority: user_explicit
-scope: Objective-and-Design-Drift research stream
+scope: Objective and Drift Detection research stream
 source_reference: conversation-or-file-location
 created_at: timestamp-or-version
 effective_from: version

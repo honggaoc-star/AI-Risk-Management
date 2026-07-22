@@ -8,14 +8,14 @@ It examines situations in which AI-generated work remains locally plausible but 
 
 > Can a specialized, comparatively small model monitor a primary generative model's proposed outputs against an explicit, evolving project state and detect consequential drift without materially interrupting the user's work?
 
-## Planned Documents
+## Documents
 
 - `Research-Proposal.md`
 - `Focused-Literature-Review.md`
 - `Mini-Model-Architecture.md`
 - `Preliminary-Evaluation-Design.md`
 
-These documents will be added progressively. The stream is currently at the concept-development and research-proposal stage.
+The stream is currently at the concept-development and research-proposal stage.
 
 ## Design Principle
 

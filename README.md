@@ -133,26 +133,23 @@ Evidence-centered evaluation of a defined AI use
 Specialized monitoring of objective and design fidelity
 ```
 
-## Planned Repository Structure
+## Repository Structure
 
 ```text
 AI-Risk-Management/
 ├── README.md
-├── PROGRAM-OVERVIEW.md
-├── PRIOR-AND-RELATED-WORK.md
-├── Research-Streams/
-│   └── Objective-and-Design-Drift/
-│       ├── README.md
-│       ├── Research-Proposal.md
-│       ├── Focused-Literature-Review.md
-│       ├── Mini-Model-Architecture.md
-│       └── Preliminary-Evaluation-Design.md
-├── Research-Notes/
-│   ├── Three-Layer-Framework-for-Generative-AI-Error.md
-│   └── Model-Error-and-Mitigation.md  # superseded historical note
-├── REFERENCES.md
-├── ROADMAP.md
-└── LICENSE
+└── Objective and Drift Detection/
+    ├── README.md
+    ├── Research-Exploration/
+    │   ├── README.md
+    │   ├── Research-Proposal.md
+    │   ├── Focused-Literature-Review.md
+    │   ├── Mini-Model-Architecture.md
+    │   └── Preliminary-Evaluation-Design.md
+    └── Research-Notes/
+        ├── README.md
+        ├── Three-Layer-Framework-for-Generative-AI-Error.md
+        └── Model-Error-and-Mitigation.md  # superseded historical note
 ```
 
 This structure is intentionally compact. Additional research streams or technical implementation folders should be added only when the work justifies them.
