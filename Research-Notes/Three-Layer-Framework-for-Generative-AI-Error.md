@@ -15,9 +15,9 @@ Generative-AI systems can produce responses that are false, unsupported, logical
 
 This paper begins from a broader definition. A generative-AI system errs when its output fails the standard of correctness applicable to the task. That standard may require factual correspondence, logical validity, support from evidence, faithful representation of a source, compliance with instructions, correct use of a tool, or preservation of an authorized project design. Hallucination, ordinarily understood as false, fabricated, unsupported, or source-inconsistent generation, is therefore an important subset of model error rather than a synonym for all AI failures:
 
-\[
-\text{Generative-AI error} \supseteq \text{Hallucination}. \tag{1}
-\]
+$$
+\text{Generative-AI error} \supseteq \text{Hallucination}. 
+$$
 
 The distinction is consequential. If errors have different sources, mitigation should be directed toward the mechanisms producing or sustaining them. Better training may reduce errors arising from inadequate model representation. It may do less for an instruction that has fallen out of the operative context. A longer context window may preserve that instruction, but it cannot make incorrect evidence true. Additional reasoning steps may correct an early mistake, but they may also build a coherent argument around it. An external monitor may contain an error without preventing its initial generation.
 
@@ -45,9 +45,9 @@ Representational limitation explains why a model may begin a task without an ade
 
 Contemporary language models generally generate a sequence autoregressively. Given an input \(x\), the probability of an output sequence \(y_{1:T}\) can be written as
 
-\[
-P(y_{1:T}\mid x)=\prod_{t=1}^{T}P(y_t\mid x,y_{1:t-1}). \tag{2}
-\]
+$$
+P(y_{1:T}\mid x)=\prod_{t=1}^{T}P(y_t\mid x,y_{1:t-1}). 
+$$
 
 Each generated token becomes part of the conditioning information for the next. An early interpretation, factual statement, or intermediate calculation can therefore change the probability distribution governing all that follows. A mistaken premise may lead to additional claims that are locally coherent with the premise even though the overall response is wrong.
 
@@ -79,9 +79,9 @@ We define operative-context limitation as follows:
 
 This definition separates nominal capacity from effective use:
 
-\[
-\text{Context capacity} \neq \text{Context competence}. \tag{4}
-\]
+$$
+\text{Context capacity} \neq \text{Context competence}. 
+$$
 
 The distinction has two implications. First, merely increasing the context window cannot be expected to solve every context-related error. Larger contexts can introduce noise, conflict, latency, and security exposure. Second, operative context is not solely a model property. It is also a system property, shaped by retrieval, memory, summarization, source selection, version control, and the application’s construction of the inference packet.
 
@@ -91,7 +91,7 @@ The three layers are analytically distinct but frequently interdependent. Consid
 
 The sequence can be expressed as
 
-\[
+$$
 R
 \rightarrow
 E_0
@@ -100,8 +100,8 @@ G(E_0)
 \rightarrow
 C(E_0)
 \rightarrow
-E_1, \tag{5}
-\]
+E_1, 
+$$
 
 where \(R\) denotes a representational limitation, \(E_0\) an initial error, \(G(E_0)\) the generative path conditioned on that error, \(C(E_0)\) a subsequent context containing the error, and \(E_1\) later error arising from the contaminated context.
 
@@ -109,9 +109,9 @@ The direction can also run the other way. If authoritative evidence is missing f
 
 A general expression for error probability may therefore be written as
 
-\[
-P(E)=f(R,G,C,R\times G,R\times C,G\times C,R\times G\times C), \tag{6}
-\]
+$$
+P(E)=f(R,G,C,R\times G,R\times C,G\times C,R\times G\times C), 
+$$
 
 where \(R\), \(G\), and \(C\) represent the three layers. Equation (6) is conceptual rather than estimable in its present form. Its purpose is to prevent analysis from assuming that an observed error necessarily has one isolated source.
 
@@ -127,12 +127,12 @@ The first three layers concern how an error originates or develops. A separate c
 
 Let \(V\) denote the effectiveness of verification and control. Exposed-error risk can be represented as
 
-\[
+$$
 P(E_{exposed})=
 P(E\mid R,G,C)
 \times
-P(\text{containment failure}\mid E,V). \tag{7}
-\]
+P(\text{containment failure}\mid E,V). 
+$$
 
 Model training, reasoning design, and context improvement principally seek to reduce the first term. Verification and monitoring principally seek to reduce the second. This separation explains why external control can add value even when it does not improve the underlying model, and why model improvement does not eliminate the need for system-level assurance.
 
