@@ -53,15 +53,15 @@ Each generated token becomes part of the conditioning information for the next. 
 
 This process may be represented schematically as
 
-\[
+$$
 \text{Early commitment}
 \rightarrow
 \text{Altered generated context}
 \rightarrow
 \text{Changed subsequent inference}
 \rightarrow
-\text{Amplification, concealment, redirection, or recovery}. \tag{3}
-\]
+\text{Amplification, concealment, redirection, or recovery}. 
+$$
 
 It would be too strong, however, to say that probabilistic generation itself causes error. A sampled continuation can be correct, while deterministic decoding can select an incorrect answer with high confidence. Nor do errors necessarily accumulate without limit. He et al. (2021), for example, show that autoregressive text generation can exhibit self-recovery after prefix distortion. The relevant feature is not unavoidable deterioration but path dependence.
 
