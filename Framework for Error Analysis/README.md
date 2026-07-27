@@ -34,7 +34,9 @@ The framework also addresses:
 - consequence assessment; and
 - the relationship between diagnosis and system-level controls.
 
-The v1.0b manuscript is being prepared for public circulation. A stable reading copy and citation information will be added here before the formal announcement.
+**[Read or download the v1.0b manuscript (PDF)](./Framework%20for%20Error%20and%20Hallucination%20in%20Gen-AI%20Systems%20%28v1.0b%29.pdf)**
+
+The v1.0b manuscript is available for public comment and review. Citation information will be added as the paper develops.
 
 ## Status and Review
 
