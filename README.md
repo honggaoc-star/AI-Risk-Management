@@ -55,7 +55,7 @@ The initiative includes:
 
 Its working paper, *An Analytical Framework for Error and Hallucination in Deployed Generative AI Systems*, distinguishes the governing reference used to evaluate a response from the information available during response production. It separates discrepancy classification from causal attribution and consequence assessment; distinguishes hallucination from task-obligation fidelity error while allowing them to overlap; and extends the analysis to time, project state, possible error propagation, retrieval-augmented generation, and system-level controls.
 
-The current manuscript is **v1.0b — Working Paper, Review Draft**. It is being prepared for public circulation and critical review.
+The current manuscript is **v1.0b — Working Paper, Review Draft** and is [available as a PDF](./Framework%20for%20Error%20Analysis/Framework%20for%20Error%20and%20Hallucination%20in%20Gen-AI%20Systems%20%28v1.0b%29.pdf) for public comment and critical review.
 
 Additional initiatives may be added when justified by the research.
 
@@ -96,7 +96,7 @@ This structure is intentionally compact. New initiative, implementation, data, o
 
 AI Risk Management is at an early research-development stage. It currently contains two related initiatives. Objective and Drift Detection examines departures from user-authorized objectives, definitions, constraints, decisions, and conceptual architecture in extended human–AI collaboration. Framework for Error Analysis develops an authority-first method for evaluating discrepancies in delivered generative-AI responses and investigating their possible causes.
 
-The framework working paper is currently at v1.0b and is being prepared for public circulation and critical review. The broader lab structure remains intended to support additional AI-risk-management studies only when they present distinct questions, sufficient conceptual development, and a clear relationship to the program.
+The framework working paper is currently at v1.0b and is available for public comment and critical review. The broader lab structure remains intended to support additional AI-risk-management studies only when they present distinct questions, sufficient conceptual development, and a clear relationship to the program.
 
 ## Working Boundaries
 
