@@ -50,7 +50,12 @@ The initiative includes:
 - [Research Notes](./Objective%20and%20Drift%20Detection/Research-Notes/), containing the supporting three-layer framework for generative-AI error and the superseded exploratory note from which it developed.
 
 ### Framework for Error Analysis
- - TBD
+
+[Framework for Error Analysis](./Framework%20for%20Error%20Analysis/) develops an authority-first analytical framework for identifying, classifying, and investigating errors in responses delivered by deployed generative AI systems.
+
+Its working paper, *An Analytical Framework for Error and Hallucination in Deployed Generative AI Systems*, distinguishes the governing reference used to evaluate a response from the information available during response production. It separates discrepancy classification from causal attribution and consequence assessment; distinguishes hallucination from task-obligation fidelity error while allowing them to overlap; and extends the analysis to time, project state, possible error propagation, retrieval-augmented generation, and system-level controls.
+
+The current manuscript is **v1.0b — Working Paper, Review Draft**. It is being prepared for public circulation and critical review.
 
 Additional initiatives may be added when justified by the research.
 
@@ -69,25 +74,29 @@ Together, these projects motivate a research program concerned with the practica
 ```text
 AI-Risk-Management/
 ├── README.md
-└── Objective and Drift Detection/
-    ├── README.md
-    ├── Research-Exploration/
-    │   ├── README.md
-    │   ├── Research-Proposal.md
-    │   ├── Focused-Literature-Review.md
-    │   ├── Mini-Model-Architecture.md
-    │   └── Preliminary-Evaluation-Design.md
-    └── Research-Notes/
-        ├── README.md
-        ├── Three-Layer-Framework-for-Generative-AI-Error.md
-        └── Model-Error-and-Mitigation.md  # superseded historical note
+├── Objective and Drift Detection/
+│   ├── README.md
+│   ├── Research-Exploration/
+│   │   ├── README.md
+│   │   ├── Research-Proposal.md
+│   │   ├── Focused-Literature-Review.md
+│   │   ├── Mini-Model-Architecture.md
+│   │   └── Preliminary-Evaluation-Design.md
+│   └── Research-Notes/
+│       ├── README.md
+│       ├── Three-Layer-Framework-for-Generative-AI-Error.md
+│       └── Model-Error-and-Mitigation.md  # superseded historical note
+└── Framework for Error Analysis/
+    └── README.md
 ```
 
 This structure is intentionally compact. New initiative, implementation, data, or evaluation folders should be added only when the work justifies them.
 
 ## Current Status
 
-AI Risk Management is at an early research-development stage. The current work concentrates on the first initiative, Objective and Drift Detection. The broader lab structure is intended to support future AI-risk-management studies without presuming their topics, methods, or conclusions in advance.
+AI Risk Management is at an early research-development stage. It currently contains two related initiatives. Objective and Drift Detection examines departures from user-authorized objectives, definitions, constraints, decisions, and conceptual architecture in extended human–AI collaboration. Framework for Error Analysis develops an authority-first method for evaluating discrepancies in delivered generative-AI responses and investigating their possible causes.
+
+The framework working paper is currently at v1.0b and is being prepared for public circulation and critical review. The broader lab structure remains intended to support additional AI-risk-management studies only when they present distinct questions, sufficient conceptual development, and a clear relationship to the program.
 
 ## Working Boundaries
 
