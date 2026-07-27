@@ -42,6 +42,8 @@ The v1.0b manuscript is available for public comment and review. Citation inform
 
 This is an analytical working paper, not a completed empirical validation study. The framework is being circulated for critical review and remains subject to revision.
 
+**[Join the GitHub discussion and leave comments](https://github.com/honggaoc-star/AI-Risk-Management/discussions/1)**
+
 Comments are especially welcome on:
 
 1. whether the authority-first evaluation sequence is conceptually distinctive and useful;
