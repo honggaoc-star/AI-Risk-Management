@@ -49,6 +49,9 @@ The initiative includes:
 - [Research Exploration](./Objective%20and%20Drift%20Detection/Research-Exploration/), containing the proposal, focused literature review, preliminary architecture, and evaluation design;
 - [Research Notes](./Objective%20and%20Drift%20Detection/Research-Notes/), containing the supporting three-layer framework for generative-AI error and the superseded exploratory note from which it developed.
 
+### Framework for Error Analysis
+ - TBD
+
 Additional initiatives may be added when justified by the research.
 
 ## Relationship to Prior Work
