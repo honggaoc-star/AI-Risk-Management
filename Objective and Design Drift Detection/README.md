@@ -1,6 +1,6 @@
-# Objective and Drift Detection
+# Objective and Design Drift Detection
 
-Objective and Drift Detection is the first focused research initiative within AI Risk Management.
+Objective and Design Drift Detection is the first focused research initiative within AI Risk Management.
 
 It investigates objective and design drift in extended human–AI collaboration and the feasibility of a specialized, low-friction monitoring model.
 

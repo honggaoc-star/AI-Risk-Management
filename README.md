@@ -38,9 +38,9 @@ The program favors practical, evidence-centered work. A proposed control should 
 
 ## Active Research Initiatives
 
-### Objective and Drift Detection
+### Objective and Design Drift Detection
 
-[Objective and Drift Detection](./Objective%20and%20Drift%20Detection/) is the first research initiative in the AIRM lab.
+[Objective and Design Drift Detection](./Objective%20and%20Drift%20Detection/) is the first research initiative in the AIRM lab.
 
 It studies objective and design drift in extended human–AI collaboration and the feasibility of specialized, low-friction monitoring. The initiative asks whether AI-generated work can remain locally plausible while materially departing from user-authorized objectives, definitions, constraints, decisions, or conceptual architecture—and whether consequential departures can be detected without materially interrupting the user's work.
 
@@ -74,7 +74,7 @@ Together, these projects motivate a research program concerned with the practica
 ```text
 AI-Risk-Management/
 ├── README.md
-├── Objective and Drift Detection/
+├── Objective and Design Drift Detection/
 │   ├── README.md
 │   ├── Research-Exploration/
 │   │   ├── README.md
