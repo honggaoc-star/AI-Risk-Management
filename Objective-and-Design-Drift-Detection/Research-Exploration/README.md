@@ -1,6 +1,6 @@
-# Objective and Design Drift
+# Objective and Design Drift Detection: Research Exploration
 
-This is the first focused research stream within AI Risk Management.
+This directory contains the research exploration for the Objective and Design Drift Detection initiative within AI Risk Management.
 
 It examines situations in which AI-generated work remains locally plausible but materially departs from the objectives, definitions, constraints, decisions, or conceptual architecture authorized by the user for an extended project.
 

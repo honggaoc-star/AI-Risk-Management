@@ -1,6 +1,6 @@
-# Research Notes
+# Objective and Design Drift Detection: Research Notes
 
-This directory contains conceptual and exploratory notes supporting the AI Risk Management program.
+This directory contains conceptual and exploratory notes supporting the Objective and Design Drift Detection initiative.
 
 ## Current Note
 
