@@ -49,13 +49,17 @@ The initiative includes:
 - [Research Exploration](./Objective%20and%20Drift%20Detection/Research-Exploration/), containing the proposal, focused literature review, preliminary architecture, and evaluation design;
 - [Research Notes](./Objective%20and%20Drift%20Detection/Research-Notes/), containing the supporting three-layer framework for generative-AI error and the superseded exploratory note from which it developed.
 
-### Framework for Error Analysis
+### Analytical Framework on Model Error
 
-[Framework for Error Analysis](./Framework%20for%20Error%20Analysis/) develops an authority-first analytical framework for identifying, classifying, and investigating errors in responses delivered by deployed generative AI systems.
+[Analytical Framework on Model Error](./Framework%20for%20Error%20Analysis/) develops an authority-first analytical framework for identifying, classifying, and investigating errors in responses delivered by deployed generative AI systems.
 
 Its working paper, *An Analytical Framework for Error and Hallucination in Deployed Generative AI Systems*, distinguishes the governing reference used to evaluate a response from the information available during response production. It separates discrepancy classification from causal attribution and consequence assessment; distinguishes hallucination from task-obligation fidelity error while allowing them to overlap; and extends the analysis to time, project state, possible error propagation, retrieval-augmented generation, and system-level controls.
 
 The current manuscript is **v1.0b — Working Paper, Review Draft** and is [available as a PDF](./Framework%20for%20Error%20Analysis/Framework%20for%20Error%20and%20Hallucination%20in%20Gen-AI%20Systems%20%28v1.0b%29.pdf) for public comment and critical review.
+
+### Plausible Mechanisms for Hallucination
+
+TBD
 
 Additional initiatives may be added when justified by the research.
 
