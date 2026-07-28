@@ -1,6 +1,6 @@
 # Objective and Design Drift Detection
 
-Objective and Design Drift Detection is the first focused research initiative within AI Risk Management.
+Objective and Design Drift Detection is the first focused research initiative developed within AI Risk Management. The specialized mini-model proposal is currently tabled, and the repository preserves the investigation as background for later work on longitudinal fidelity, context, project state, and error propagation.
 
 It investigates objective and design drift in extended human–AI collaboration and the feasibility of a specialized, low-friction monitoring model.
 
@@ -181,17 +181,9 @@ State management
 
 ## Current Status
 
-The initiative is at the concept-development and research-proposal stage. The immediate priorities are to:
+The initiative completed its initial concept-development phase, including a research proposal, focused literature review, preliminary architecture, and evaluation design. The specialized mini-model proposal is tabled because its incremental value over capable primary-model monitoring, structured project state, retrieval, deterministic controls, and existing multi-agent approaches has not been established.
 
-1. consolidate the initial proposal;
-2. complete a focused review of adjacent literature and existing evaluator models;
-3. formalize the governing-state and drift taxonomy;
-4. define a preliminary model and system architecture;
-5. construct representative drift and non-drift cases;
-6. develop an evaluation design centered on both detection performance and workflow value;
-7. determine whether a bounded prototype is justified.
-
-No trained drift-monitoring model is currently provided by this repository.
+No trained drift-monitoring model is provided by this repository. The project remains available as a bounded formulation of objective and design drift and as background for later research; renewed prototype work would require a distinct value proposition and comparative evidence.
 
 ## Working Boundaries
 
