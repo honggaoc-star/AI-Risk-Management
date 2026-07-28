@@ -40,14 +40,16 @@ The program favors practical, evidence-centered work. A proposed control should 
 
 ### Objective and Design Drift Detection
 
-[Objective and Design Drift Detection](./Objective%20and%20Drift%20Detection/) is the first research initiative in the AIRM lab.
+[Objective and Design Drift Detection](./Objective-and-Design-Drift-Detection/) is the first research initiative developed in the AIRM lab.
 
 It studies objective and design drift in extended human–AI collaboration and the feasibility of specialized, low-friction monitoring. The initiative asks whether AI-generated work can remain locally plausible while materially departing from user-authorized objectives, definitions, constraints, decisions, or conceptual architecture—and whether consequential departures can be detected without materially interrupting the user's work.
 
 The initiative includes:
 
-- [Research Exploration](./Objective%20and%20Drift%20Detection/Research-Exploration/), containing the proposal, focused literature review, preliminary architecture, and evaluation design;
-- [Research Notes](./Objective%20and%20Drift%20Detection/Research-Notes/), containing the supporting three-layer framework for generative-AI error and the superseded exploratory note from which it developed.
+- [Research Exploration](./Objective-and-Design-Drift-Detection/Research-Exploration/), containing the proposal, focused literature review, preliminary architecture, and evaluation design;
+- [Research Notes](./Objective-and-Design-Drift-Detection/Research-Notes/), containing the superseded exploratory note from which the project developed.
+
+The specialized mini-model proposal is currently tabled. The repository preserves the work as a bounded investigation of longitudinal fidelity and as background for later research on context, project state, and error propagation.
 
 ### Analytical Framework on Model Error
 
@@ -59,7 +61,9 @@ The current manuscript is **v1.0b — Working Paper, Review Draft** and is [avai
 
 ### Plausible Mechanisms for Hallucination
 
-TBD
+[Plausible Mechanisms for Hallucination](./Plausible-Mechanisms-for-Hallucination/) develops a mechanism-oriented framework for studying how hallucinations may arise, develop, or persist in generative AI systems.
+
+The project examines three plausible and interacting mechanism families: mismatch or insufficiency in learned representation, path dependence during autoregressive generation, and limitations in the construction or effective use of operative context. It is designed as a companion to the authority-first analytical framework: the analytical framework establishes how a discrepancy should be evaluated, while this project develops causal hypotheses that can inform static experiments and longitudinal comparisons across model versions.
 
 Additional initiatives may be added when justified by the research.
 
@@ -78,7 +82,7 @@ Together, these projects motivate a research program concerned with the practica
 ```text
 AI-Risk-Management/
 ├── README.md
-├── Objective and Design Drift Detection/
+├── Objective-and-Design-Drift-Detection/
 │   ├── README.md
 │   ├── Research-Exploration/
 │   │   ├── README.md
@@ -88,19 +92,23 @@ AI-Risk-Management/
 │   │   └── Preliminary-Evaluation-Design.md
 │   └── Research-Notes/
 │       ├── README.md
-│       ├── Three-Layer-Framework-for-Generative-AI-Error.md
 │       └── Model-Error-and-Mitigation.md  # superseded historical note
-└── Framework for Error Analysis/
-    └── README.md
+├── Plausible-Mechanisms-for-Hallucination/
+│   ├── README.md
+│   └── Archive/
+│       └── Three-Layer-Framework-for-Generative-AI-Error.md
+└── Framework for Error Analysis/          # published path retained
+    ├── README.md
+    └── Framework for Error and Hallucination in Gen-AI Systems (v1.0b).pdf
 ```
 
 This structure is intentionally compact. New initiative, implementation, data, or evaluation folders should be added only when the work justifies them.
 
 ## Current Status
 
-AI Risk Management is at an early research-development stage. It currently contains two related initiatives. Objective and Drift Detection examines departures from user-authorized objectives, definitions, constraints, decisions, and conceptual architecture in extended human–AI collaboration. Framework for Error Analysis develops an authority-first method for evaluating discrepancies in delivered generative-AI responses and investigating their possible causes.
+AI Risk Management is at an early research-development stage. It contains three related projects at different stages. Objective and Design Drift Detection preserves a tabled investigation of departures from user-authorized objectives, definitions, constraints, decisions, and conceptual architecture in extended human–AI collaboration. Framework for Error Analysis develops an authority-first method for evaluating discrepancies in delivered generative-AI responses and investigating their possible causes. Plausible Mechanisms for Hallucination develops candidate explanations and testable hypotheses concerning learned representation, autoregressive generation, and operative context.
 
-The framework working paper is currently at v1.0b and is available for public comment and critical review. The broader lab structure remains intended to support additional AI-risk-management studies only when they present distinct questions, sufficient conceptual development, and a clear relationship to the program.
+The authority-first framework working paper is currently at v1.0b and is available for public comment and critical review. Its published folder and document names are intentionally retained so that existing discussion and announcement links remain live. The broader lab structure remains intended to support additional AI-risk-management studies only when they present distinct questions, sufficient conceptual development, and a clear relationship to the program.
 
 ## Working Boundaries
 
