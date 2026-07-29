@@ -4,6 +4,11 @@ This directory is the home of a separate research initiative within AI Risk Mana
 
 The project will examine plausible mechanisms that may produce hallucination in generative AI systems. It will keep observed output discrepancies distinct from proposed causal explanations and will treat candidate mechanisms as hypotheses whose scope and evidentiary support must be evaluated.
 
+## Working Paper
+
+- [PDF (reading version)](Hallucination-Mechanisms-Working-Paper-v1.0.pdf)
+- [DOCX (editable version)](Hallucination-Mechanisms-Working-Paper-v1.0.docx)
+
 ## Initial Research Focus
 
 The initial work will:
