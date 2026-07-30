@@ -1,6 +1,6 @@
 # Plausible Mechanisms for Hallucination in Generative AI Systems
 
-This directory is the home of a separate research initiative within AI Risk Management.
+This directory is the home of a research initiative within AI Risk Management.
 
 The project will examine plausible mechanisms that may produce hallucination in generative AI systems. It will keep observed output discrepancies distinct from proposed causal explanations and will treat candidate mechanisms as hypotheses whose scope and evidentiary support must be evaluated.
 
