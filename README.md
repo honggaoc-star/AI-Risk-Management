@@ -51,11 +51,11 @@ The initiative includes:
 
 ### Analytical Framework on Model Error
 
-[Analytical Framework on Model Error](./Framework%20for%20Error%20Analysis/) develops an authority-first analytical framework for identifying, classifying, and investigating errors in responses delivered by deployed generative AI systems.
+[Analytical Framework on Model Error](./Analytical-Framework-on-Model-Error/) develops an authority-first analytical framework for identifying, classifying, and investigating errors in responses delivered by deployed generative AI systems.
 
 Its working paper, *An Analytical Framework for Error and Hallucination in Deployed Generative AI Systems*, distinguishes the governing reference used to evaluate a response from the information available during response production. It separates discrepancy classification from causal attribution and consequence assessment; distinguishes hallucination from task-obligation fidelity error while allowing them to overlap; and extends the analysis to time, project state, possible error propagation, retrieval-augmented generation, and system-level controls.
 
-The current manuscript is **v1.0b — Working Paper, Review Draft** and is [available as a PDF](./Framework%20for%20Error%20Analysis/Framework%20for%20Error%20and%20Hallucination%20in%20Gen-AI%20Systems%20%28v1.0b%29.pdf) for public comment and critical review.
+The current manuscript is **v1.1 — Working Paper, July 2026** and is [available as a PDF](./Analytical-Framework-on-Model-Error/Analytical-Framework-on-Model-Error-v1.1.pdf) for public comment and critical review. The previously circulated v1.0b manuscript remains available in the legacy folder as an archived earlier version.
 
 ### Plausible Mechanisms for Hallucination in Generative AI Systems
 
@@ -92,7 +92,11 @@ AI-Risk-Management/
 │       ├── README.md
 │       ├── Three-Layer-Framework-for-Generative-AI-Error.md
 │       └── Model-Error-and-Mitigation.md  # superseded historical note
-├── Framework for Error Analysis/
+├── Analytical-Framework-on-Model-Error/
+│   ├── README.md
+│   ├── Analytical-Framework-on-Model-Error-v1.1.docx
+│   └── Analytical-Framework-on-Model-Error-v1.1.pdf
+├── Framework for Error Analysis/  # legacy v1.0b folder retained temporarily
 │   ├── README.md
 │   └── Framework for Error and Hallucination in Gen-AI Systems (v1.0b).pdf
 └── Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/
@@ -103,9 +107,9 @@ This structure is intentionally compact. New initiative, implementation, data, o
 
 ## Current Status
 
-AI Risk Management is at an early research-development stage. It currently contains three related initiatives. Objective and Design Drift Detection examines departures from user-authorized objectives, definitions, constraints, decisions, and conceptual architecture in extended human–AI collaboration. Framework for Error Analysis develops an authority-first method for evaluating discrepancies in delivered generative-AI responses and investigating their possible causes. Plausible Mechanisms for Hallucination in Generative AI Systems is a separate project for developing and evaluating mechanism-level hypotheses about hallucination.
+AI Risk Management is at an early research-development stage. It currently contains three related initiatives. Objective and Design Drift Detection examines departures from user-authorized objectives, definitions, constraints, decisions, and conceptual architecture in extended human–AI collaboration. Analytical Framework on Model Error develops an authority-first method for evaluating discrepancies in delivered generative-AI responses and investigating their possible causes. Plausible Mechanisms for Hallucination in Generative AI Systems is a separate project for developing and evaluating mechanism-level hypotheses about hallucination.
 
-The framework working paper is currently at v1.0b and is available for public comment and critical review. The broader lab structure remains intended to support additional AI-risk-management studies only when they present distinct questions, sufficient conceptual development, and a clear relationship to the program.
+The analytical framework working paper is currently at v1.1 and is available for public comment and critical review. The broader lab structure remains intended to support additional AI-risk-management studies only when they present distinct questions, sufficient conceptual development, and a clear relationship to the program.
 
 ## Working Boundaries
 
