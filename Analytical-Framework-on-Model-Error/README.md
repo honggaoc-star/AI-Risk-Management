@@ -1,29 +1,28 @@
 # An Analytical Framework for Error and Hallucination in Deployed Generative AI Systems
 
-## arXiv Preprint
+## Current Manuscript
 
 Current version: **August 2026**
 
-**[Read or download PDF](./An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.pdf)**
-[Download the paper in Word format](./An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.docx)
+**[Read or download the current PDF](./An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.pdf?raw=1)**  
+[Download the current paper in Word format](./An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.docx?raw=1)
 
+## Archived Working-Paper Version
 
-## Working Paper
+Previously circulated version: **Working Paper v1.1, July 2026**
 
-Last version: **Working Paper v1.1, July 2026**
-
-**[Read or download PDF)](./Analytical-Framework-on-Model-Error-v1.1.pdf)**
-[Download the paper in Word format](./Analytical-Framework-on-Model-Error-v1.1.docx)
+[Read or download the archived PDF](./Analytical-Framework-on-Model-Error-v1.1.pdf?raw=1)  
+[Download the archived paper in Word format](./Analytical-Framework-on-Model-Error-v1.1.docx?raw=1)
 
 ## Abstract
 
 Evaluation of errors in a deployed generative AI system presents two related problems. First, the information used to produce a response may differ from the information that should govern its evaluation. Second, identifying an error does not establish how the configured system produced it. This paper develops an authority-first framework that addresses these problems in sequence. For each assessable assertion, the framework identifies the governing reference and classifies the assertion as supported, contradicted, unsupported, or unresolved. In parallel, it compares the delivered response with applicable task obligations. These two evaluative branches support two related error classifications: hallucination, which concerns a representational claim contradicted by or lacking support required from its governing reference, and task-obligation fidelity error, which concerns failure to satisfy an applicable requirement. The framework then separates error classification from localization and causal attribution, and error occurrence from consequence. Applications to temporal change, continuing-project state, retrieval-augmented generation, and propagation show why evaluation and control selection should concern a configured system performing a specified task rather than a model name alone. The framework is conceptual, and its practical and empirical value remains to be tested.
 
-
 ## Status and Review
 
-This version revises v1.0b, which was previously circulated for public review. The revision clarifies the paper’s authority-first focus and its relationship to a separate working paper completed shortly after v1.0b, *Plausible Mechanisms for Hallucination in Generative AI Systems: A Production Response Framework*. [View the related working paper](../Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/).
+The current manuscript revises v1.0b, which was previously circulated for public review. The revision clarifies the paper's authority-first focus and its relationship to a separate working paper completed shortly after v1.0b, *Plausible Mechanisms for Hallucination in Generative AI Systems: A Response-Production Framework*. [View the related project and current manuscript](../Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/).
 
+An arXiv link will be added after a public arXiv record has been issued.
 
 ## Relationship to the AIRM Program
 

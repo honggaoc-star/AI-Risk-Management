@@ -55,13 +55,15 @@ The initiative includes:
 
 Its working paper, *An Analytical Framework for Error and Hallucination in Deployed Generative AI Systems*, distinguishes the governing reference used to evaluate a response from the information available during response production. It separates discrepancy classification from causal attribution and consequence assessment; distinguishes hallucination from task-obligation fidelity error while allowing them to overlap; and extends the analysis to time, project state, possible error propagation, retrieval-augmented generation, and system-level controls.
 
-The current manuscript is **v1.1 — Working Paper, July 2026** and is [available as a PDF](./Analytical-Framework-on-Model-Error/Analytical-Framework-on-Model-Error-v1.1.pdf) for public comment and critical review. The previously circulated v1.0b manuscript remains available in the legacy folder as an archived earlier version.
+The current manuscript is **August 2026** and is available as a [PDF](./Analytical-Framework-on-Model-Error/An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.pdf?raw=1) or [Word document](./Analytical-Framework-on-Model-Error/An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.docx?raw=1) for public comment and critical review. Earlier circulated versions remain available as archived working papers.
 
 ### Plausible Mechanisms for Hallucination in Generative AI Systems
 
 [Plausible Mechanisms for Hallucination in Generative AI Systems](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/) is a separate research initiative examining candidate mechanisms that may produce hallucination in generative AI systems.
 
-The project will distinguish observed errors from proposed causal explanations, organize mechanism-level hypotheses, and identify the evidence needed to evaluate competing explanations without treating plausible mechanisms as established causes.
+The project distinguishes observed errors from proposed causal explanations, organizes mechanism-level hypotheses, and identifies the evidence needed to evaluate competing explanations without treating plausible mechanisms as established causes.
+
+The current manuscript is **August 2026** and is available as a [PDF](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.pdf?raw=1) or [Word document](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.docx?raw=1).
 
 Additional initiatives may be added when justified by the research.
 
@@ -94,13 +96,19 @@ AI-Risk-Management/
 │       └── Model-Error-and-Mitigation.md  # superseded historical note
 ├── Analytical-Framework-on-Model-Error/
 │   ├── README.md
-│   ├── Analytical-Framework-on-Model-Error-v1.1.docx
-│   └── Analytical-Framework-on-Model-Error-v1.1.pdf
+│   ├── An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.docx
+│   ├── An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.pdf
+│   ├── Analytical-Framework-on-Model-Error-v1.1.docx  # archived working paper
+│   └── Analytical-Framework-on-Model-Error-v1.1.pdf   # archived working paper
 ├── Framework for Error Analysis/  # legacy v1.0b folder retained temporarily
 │   ├── README.md
 │   └── Framework for Error and Hallucination in Gen-AI Systems (v1.0b).pdf
 └── Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/
-    └── README.md
+    ├── README.md
+    ├── Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.docx
+    ├── Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.pdf
+    ├── Hallucination-Mechanisms-Working-Paper-v1.0.docx  # archived working paper
+    └── Hallucination-Mechanisms-Working-Paper-v1.0.pdf   # archived working paper
 ```
 
 This structure is intentionally compact. New initiative, implementation, data, or evaluation folders should be added only when the work justifies them.
@@ -109,7 +117,7 @@ This structure is intentionally compact. New initiative, implementation, data, o
 
 AI Risk Management is at an early research-development stage. It currently contains three related initiatives. Objective and Design Drift Detection examines departures from user-authorized objectives, definitions, constraints, decisions, and conceptual architecture in extended human–AI collaboration. Analytical Framework on Model Error develops an authority-first method for evaluating discrepancies in delivered generative-AI responses and investigating their possible causes. Plausible Mechanisms for Hallucination in Generative AI Systems is a separate project for developing and evaluating mechanism-level hypotheses about hallucination.
 
-The analytical framework working paper is currently at v1.1 and is available for public comment and critical review. The broader lab structure remains intended to support additional AI-risk-management studies only when they present distinct questions, sufficient conceptual development, and a clear relationship to the program.
+The current August 2026 manuscripts for the analytical framework and plausible-mechanisms initiatives are available for public comment and critical review. Public arXiv links will be added after records have been issued. The broader lab structure remains intended to support additional AI-risk-management studies only when they present distinct questions, sufficient conceptual development, and a clear relationship to the program.
 
 ## Working Boundaries
 
