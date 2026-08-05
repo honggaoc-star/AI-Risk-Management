@@ -55,7 +55,7 @@ The initiative includes:
 
 Its working paper, *An Analytical Framework for Error and Hallucination in Deployed Generative AI Systems*, distinguishes the governing reference used to evaluate a response from the information available during response production. It separates discrepancy classification from causal attribution and consequence assessment; distinguishes hallucination from task-obligation fidelity error while allowing them to overlap; and extends the analysis to time, project state, possible error propagation, retrieval-augmented generation, and system-level controls.
 
-The current manuscript is **August 2026** and is available as a [PDF](./Analytical-Framework-on-Model-Error/An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.pdf?raw=1) or [Word document](./Analytical-Framework-on-Model-Error/An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.docx?raw=1) for public comment and critical review. Earlier circulated versions remain available as archived working papers.
+The current manuscript is **August 2026** and is available as a [PDF](./Analytical-Framework-on-Model-Error/An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.pdf?raw=1) for public comment and critical review. Earlier circulated versions remain available as archived working papers.
 
 ### Plausible Mechanisms for Hallucination in Generative AI Systems
 
@@ -63,7 +63,7 @@ The current manuscript is **August 2026** and is available as a [PDF](./Analytic
 
 The project distinguishes observed errors from proposed causal explanations, organizes mechanism-level hypotheses, and identifies the evidence needed to evaluate competing explanations without treating plausible mechanisms as established causes.
 
-The current manuscript is **August 2026** and is available as a [PDF](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.pdf?raw=1) or [Word document](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.docx?raw=1).
+The current manuscript is **August 2026** and is available as a [PDF](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.pdf?raw=1).
 
 Additional initiatives may be added when justified by the research.
 
@@ -96,18 +96,14 @@ AI-Risk-Management/
 │       └── Model-Error-and-Mitigation.md  # superseded historical note
 ├── Analytical-Framework-on-Model-Error/
 │   ├── README.md
-│   ├── An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.docx
 │   ├── An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.pdf
-│   ├── Analytical-Framework-on-Model-Error-v1.1.docx  # archived working paper
 │   └── Analytical-Framework-on-Model-Error-v1.1.pdf   # archived working paper
 ├── Framework for Error Analysis/  # legacy v1.0b folder retained temporarily
 │   ├── README.md
 │   └── Framework for Error and Hallucination in Gen-AI Systems (v1.0b).pdf
 └── Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/
     ├── README.md
-    ├── Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.docx
     ├── Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.pdf
-    ├── Hallucination-Mechanisms-Working-Paper-v1.0.docx  # archived working paper
     └── Hallucination-Mechanisms-Working-Paper-v1.0.pdf   # archived working paper
 ```
 
