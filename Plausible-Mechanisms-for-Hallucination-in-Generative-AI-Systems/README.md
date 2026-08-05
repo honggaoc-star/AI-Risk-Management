@@ -9,14 +9,14 @@ The project examines plausible mechanisms that may produce hallucination in gene
 Current version: **August 2026**
 
 - [View the current PDF](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.pdf)
-- [Download the current PDF](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.pdf?raw=1)
+- [Download the current PDF](https://raw.githubusercontent.com/honggaoc-star/AI-Risk-Management/refs/heads/main/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.pdf)
 
 ## Archived Working-Paper Version
 
 Previously circulated version: **Working Paper v1.0**
 
 - [View the archived PDF](./Hallucination-Mechanisms-Working-Paper-v1.0.pdf)
-- [Download the archived PDF](./Hallucination-Mechanisms-Working-Paper-v1.0.pdf?raw=1)
+- [Download the archived PDF](https://raw.githubusercontent.com/honggaoc-star/AI-Risk-Management/refs/heads/main/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/Hallucination-Mechanisms-Working-Paper-v1.0.pdf)
 
 ## Relationship to Other Initiatives
 
