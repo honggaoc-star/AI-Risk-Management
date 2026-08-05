@@ -6,16 +6,13 @@ The project will examine plausible mechanisms that may produce hallucination in 
 
 ## arXiv Preprint (August 2026)
 
-- [PDF (reading version)](Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.pdf)
-- [DOCX (editable version)](Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.docx)
-
-- [PDF (reading version)](Hallucination-Mechanisms-Working-Paper-v1.0.pdf)
-- [DOCX (editable version)](Hallucination-Mechanisms-Working-Paper-v1.0.docx)
+- [PDF (reading version)](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.pdf)
+- [DOCX (editable version)](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.docx)
 
 ## Working Paper
 
-- [PDF (reading version)](Hallucination-Mechanisms-Working-Paper-v1.0.pdf)
-- [DOCX (editable version)](Hallucination-Mechanisms-Working-Paper-v1.0.docx)
+- [PDF (reading version)](./Hallucination-Mechanisms-Working-Paper-v1.0.pdf)
+- [DOCX (editable version)](./Hallucination-Mechanisms-Working-Paper-v1.0.docx)
 
 
 ## Relationship to Other Initiatives
