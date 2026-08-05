@@ -5,14 +5,14 @@
 Current version: **August 2026**
 
 **[View the current PDF](./An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.pdf)**  
-[Download the current PDF](./An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.pdf?raw=1)
+[Download the current PDF](https://raw.githubusercontent.com/honggaoc-star/AI-Risk-Management/refs/heads/main/Analytical-Framework-on-Model-Error/An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.pdf)
 
 ## Archived Working-Paper Version
 
 Previously circulated version: **Working Paper v1.1, July 2026**
 
 [View the archived PDF](./Analytical-Framework-on-Model-Error-v1.1.pdf)  
-[Download the archived PDF](./Analytical-Framework-on-Model-Error-v1.1.pdf?raw=1)
+[Download the archived PDF](https://raw.githubusercontent.com/honggaoc-star/AI-Risk-Management/refs/heads/main/Analytical-Framework-on-Model-Error/Analytical-Framework-on-Model-Error-v1.1.pdf)
 
 ## Abstract
 
