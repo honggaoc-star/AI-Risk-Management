@@ -4,15 +4,13 @@
 
 Current version: **August 2026**
 
-**[Read or download the current PDF](./An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.pdf?raw=1)**  
-[Download the current paper in Word format](./An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.docx?raw=1)
+**[Read or download the current PDF](./An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.pdf?raw=1)**
 
 ## Archived Working-Paper Version
 
 Previously circulated version: **Working Paper v1.1, July 2026**
 
-[Read or download the archived PDF](./Analytical-Framework-on-Model-Error-v1.1.pdf?raw=1)  
-[Download the archived paper in Word format](./Analytical-Framework-on-Model-Error-v1.1.docx?raw=1)
+[Read or download the archived PDF](./Analytical-Framework-on-Model-Error-v1.1.pdf?raw=1)
 
 ## Abstract
 
