@@ -2,31 +2,36 @@
 
 This directory is the home of a research initiative within AI Risk Management.
 
-The project will examine plausible mechanisms that may produce hallucination in generative AI systems. It will keep observed output discrepancies distinct from proposed causal explanations and will treat candidate mechanisms as hypotheses whose scope and evidentiary support must be evaluated.
+The project examines plausible mechanisms that may produce hallucination in generative AI systems. It keeps observed output discrepancies distinct from proposed causal explanations and treats candidate mechanisms as hypotheses whose scope and evidentiary support must be evaluated.
 
-## arXiv Preprint (August 2026)
+## Current Manuscript
 
-- [PDF (reading version)](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.pdf)
-- [DOCX (editable version)](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.docx)
+Current version: **August 2026**
 
-## Working Paper
+- [Read or download the current PDF](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.pdf?raw=1)
+- [Download the current paper in Word format](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.docx?raw=1)
 
-- [PDF (reading version)](./Hallucination-Mechanisms-Working-Paper-v1.0.pdf)
-- [DOCX (editable version)](./Hallucination-Mechanisms-Working-Paper-v1.0.docx)
+## Archived Working-Paper Version
 
+Previously circulated version: **Working Paper v1.0**
+
+- [Read or download the archived PDF](./Hallucination-Mechanisms-Working-Paper-v1.0.pdf?raw=1)
+- [Download the archived paper in Word format](./Hallucination-Mechanisms-Working-Paper-v1.0.docx?raw=1)
 
 ## Relationship to Other Initiatives
 
 This project is organizationally separate from:
 
 - [Objective and Design Drift Detection](../Objective-and-Design-Drift-Detection/), which studies longitudinal fidelity to user-authorized project state; and
-- [Framework for Error Analysis](../Framework%20for%20Error%20Analysis/), which provides an authority-first framework for classifying and investigating delivered-response discrepancies.
+- [An Analytical Framework for Error and Hallucination in Deployed Generative AI Systems](../Analytical-Framework-on-Model-Error/), which provides an authority-first framework for classifying and investigating delivered-response discrepancies.
 
 Those initiatives may inform the research, but their classifications and controls should not be treated as causal findings about hallucination.
 
 ## Current Status
 
-The initiative is at the scope-definition stage. No candidate mechanism is presented here as an established or exhaustive explanation, and no empirical causal claims are currently made.
+The current manuscript is complete and prepared for prospective arXiv submission. It presents three interacting mechanism families—Model Approximation, Autoregressive Realization, and Deployment Mediation—and develops testable propositions without treating plausible pathways as universally established causes.
+
+An arXiv link will be added after a public arXiv record has been issued.
 
 ## Working Boundaries
 
