@@ -67,6 +67,12 @@ The current manuscript is **August 2026** and is available as a [viewable PDF](.
 
 Additional initiatives may be added when justified by the research.
 
+## Research Essays
+
+The [Essays](./Essays/) area contains reader-facing papers and essays that fit the AIRM research domain without necessarily being structured as active research initiatives.
+
+Its first current paper is [*AI Provenance and the Evaluation of Intellectual Work: Rational Risk, Social Meaning, and Human–AI Performance*](./Essays/AI-Provenance-and-the-Evaluation-of-Intellectual-Work/README.md), v1.0, September 2026. The paper connects human–AI performance with provenance and disclosure, asks how evaluative objectives determine appropriate benchmarks, and examines statistical risk, institutional purpose, and social meaning as possible explanations for provenance effects.
+
 ## Relationship to Prior Work
 
 The AIRM lab builds on two existing projects while leaving their published versions independent and canonical.
@@ -82,6 +88,12 @@ Together, these projects motivate a research program concerned with the practica
 ```text
 AI-Risk-Management/
 ├── README.md
+├── Essays/
+│   ├── README.md
+│   └── AI-Provenance-and-the-Evaluation-of-Intellectual-Work/
+│       ├── README.md
+│       ├── AI-Provenance-and-the-Evaluation-of-Intellectual-Work-v1.0.pdf
+│       └── AI-Provenance-and-the-Evaluation-of-Intellectual-Work-v1.0.docx
 ├── Objective-and-Design-Drift-Detection/
 │   ├── README.md
 │   ├── Research-Exploration/
@@ -112,6 +124,8 @@ This structure is intentionally compact. New initiative, implementation, data, o
 ## Current Status
 
 AI Risk Management is at an early research-development stage. It currently contains three related initiatives. Objective and Design Drift Detection examines departures from user-authorized objectives, definitions, constraints, decisions, and conceptual architecture in extended human–AI collaboration. Analytical Framework on Model Error develops an authority-first method for evaluating discrepancies in delivered generative-AI responses and investigating their possible causes. Plausible Mechanisms for Hallucination in Generative AI Systems is a separate project for developing and evaluating mechanism-level hypotheses about hallucination.
+
+Separately, the [Essays](./Essays/) area now includes the September 2026 paper [*AI Provenance and the Evaluation of Intellectual Work: Rational Risk, Social Meaning, and Human–AI Performance*](./Essays/AI-Provenance-and-the-Evaluation-of-Intellectual-Work/README.md). It is a reader-facing paper relevant to AIRM's human–AI collaboration, institutional risk, evaluation, and governance scope and is not counted as an active initiative by placement alone.
 
 The current August 2026 manuscripts for the analytical framework and plausible-mechanisms initiatives are available for public comment and critical review. Public arXiv links will be added after records have been issued. The broader lab structure remains intended to support additional AI-risk-management studies only when they present distinct questions, sufficient conceptual development, and a clear relationship to the program.
 
