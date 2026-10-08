@@ -1,6 +1,6 @@
 # AI Risk Management
 
-AI Risk Management (AIRM) is a developing research lab for studying risks arising from artificial intelligence and practical ways to identify, evaluate, mitigate, monitor, and govern them.
+AI Risk Management (AIRM) is a developing research lab and publication collection for studying risks arising from artificial intelligence and practical ways to identify, evaluate, mitigate, monitor, and govern them. The repository contains completed and publicly released research, active or exploratory work, and historical records retained for provenance. These statuses are not interchangeable.
 
 The lab is concerned particularly with generative AI systems used in consequential, extended, or structurally complex human–AI workflows. Its scope is not limited to any single risk category, model type, technical mechanism, or institutional setting.
 
@@ -36,42 +36,35 @@ The lab uses focused research initiatives rather than treating AI risk managemen
 
 The program favors practical, evidence-centered work. A proposed control should be evaluated not only on whether it reduces a target risk, but also on the costs, new risks, workflow effects, and governance requirements it introduces.
 
-## Active Research Initiatives
+## Research and Publication Guide
 
-### Objective and Design Drift Detection
+The status descriptions below reflect the October 2026 portfolio review. Each project record remains authoritative for its own claims, version, evidence, and limitations.
 
-[Objective and Design Drift Detection](./Objective-and-Design-Drift-Detection/) is the first research initiative in the AIRM lab.
+### Completed and Publicly Released Research
 
-It studies objective and design drift in extended human–AI collaboration and the feasibility of specialized, low-friction monitoring. The initiative asks whether AI-generated work can remain locally plausible while materially departing from user-authorized objectives, definitions, constraints, decisions, or conceptual architecture—and whether consequential departures can be detected without materially interrupting the user's work.
+- **[Return-Weighted Risk (RWR)](./Return-Weighted-Risk/)** — [Working Paper v1.1, August 2026](./Return-Weighted-Risk/Return-Weighted-Risk-for-Navigating-an-Evolving-AI-Landscape.pdf). This is the accepted working-paper version, and the core manuscript project is closed for now. Its small-business-lending example is hypothetical; empirical validation remains future work.
+- **[An Analytical Framework for Error and Hallucination in Deployed Generative AI Systems](./Analytical-Framework-on-Model-Error/)** — [current manuscript, August 2026](./Analytical-Framework-on-Model-Error/An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.pdf). The paper develops the authority-first framework for evaluating delivered-response discrepancies. It is conceptual, is available for public comment and critical review, and does not claim established practical or empirical value.
+- **[Plausible Mechanisms for Hallucination in Generative AI Systems](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/)** — [current manuscript, August 2026](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.pdf). The manuscript is complete and prepared for prospective arXiv submission. Its mechanism families and propositions remain hypotheses rather than universally established causes.
+- **[AI Provenance and the Evaluation of Intellectual Work](./Essays/AI-Provenance-and-the-Evaluation-of-Intellectual-Work/README.md)** — [v1.0, September 2026](./Essays/AI-Provenance-and-the-Evaluation-of-Intellectual-Work/AI-Provenance-and-the-Evaluation-of-Intellectual-Work-v1.0.pdf). Version 1.0 is the current public version. The paper is maintained in the [Essays](./Essays/) area and is not an active research initiative by placement alone.
 
-The initiative includes:
+Repository publication makes these works publicly available; it does not imply peer review, journal acceptance, operational certification, or empirical validation. Public arXiv links will be added only after the corresponding records have been issued.
 
-- [Research Exploration](./Objective-and-Design-Drift-Detection/Research-Exploration/), containing the proposal, focused literature review, preliminary architecture, and evaluation design;
-- [Research Notes](./Objective-and-Design-Drift-Detection/Research-Notes/), containing the supporting three-layer framework for generative-AI error and the superseded exploratory note from which it developed.
+### Active or Exploratory Research
 
-### Analytical Framework on Model Error
+- **[Objective and Design Drift Detection](./Objective-and-Design-Drift-Detection/)** remains at the concept-development and research-proposal stage. It studies whether consequential divergence from user-authorized project state can be detected with sufficiently low workflow cost. Its [research exploration](./Objective-and-Design-Drift-Detection/Research-Exploration/) includes a proposal, focused literature review, preliminary architecture, and evaluation design. No trained drift-monitoring model is currently provided.
 
-[Analytical Framework on Model Error](./Analytical-Framework-on-Model-Error/) develops an authority-first analytical framework for identifying, classifying, and investigating errors in responses delivered by deployed generative AI systems.
+### Prospective or Deferred Work
 
-Its working paper, *An Analytical Framework for Error and Hallucination in Deployed Generative AI Systems*, distinguishes the governing reference used to evaluate a response from the information available during response production. It separates discrepancy classification from causal attribution and consequence assessment; distinguishes hallucination from task-obligation fidelity error while allowing them to overlap; and extends the analysis to time, project state, possible error propagation, retrieval-augmented generation, and system-level controls.
+Public arXiv records for the authority-first and hallucination-mechanisms manuscripts remain prospective; the repository PDFs above are the current public copies. Empirical evaluation of RWR and any decision to build a bounded objective-and-design-drift prototype also remain future work rather than current release claims.
 
-The current manuscript is **August 2026** and is available as a [viewable PDF](./Analytical-Framework-on-Model-Error/An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.pdf) for public comment and critical review. Earlier circulated versions remain available as archived working papers.
+### Archived and Superseded Materials
 
-### Plausible Mechanisms for Hallucination in Generative AI Systems
+These materials remain accessible for provenance and continuity; they are not the current versions of the work they precede.
 
-[Plausible Mechanisms for Hallucination in Generative AI Systems](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/) is a separate research initiative examining candidate mechanisms that may produce hallucination in generative AI systems.
-
-The project distinguishes observed errors from proposed causal explanations, organizes mechanism-level hypotheses, and identifies the evidence needed to evaluate competing explanations without treating plausible mechanisms as established causes.
-
-The current manuscript is **August 2026** and is available as a [viewable PDF](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.pdf).
-
-Additional initiatives may be added when justified by the research.
-
-## Research Essays
-
-The [Essays](./Essays/) area contains reader-facing papers and essays that fit the AIRM research domain without necessarily being structured as active research initiatives.
-
-Its first current paper is [*AI Provenance and the Evaluation of Intellectual Work: Rational Risk, Social Meaning, and Human–AI Performance*](./Essays/AI-Provenance-and-the-Evaluation-of-Intellectual-Work/README.md), v1.0, September 2026. The paper connects human–AI performance with provenance and disclosure, asks how evaluative objectives determine appropriate benchmarks, and examines statistical risk, institutional purpose, and social meaning as possible explanations for provenance effects.
+- [Analytical Framework working paper v1.1, July 2026](./Analytical-Framework-on-Model-Error/Analytical-Framework-on-Model-Error-v1.1.pdf);
+- [legacy analytical-framework v1.0b folder](./Framework%20for%20Error%20Analysis/), retained temporarily;
+- [Hallucination Mechanisms working paper v1.0](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/Hallucination-Mechanisms-Working-Paper-v1.0.pdf); and
+- [Model Error and Mitigation](./Objective-and-Design-Drift-Detection/Research-Notes/Model-Error-and-Mitigation.md), a superseded exploratory note retained in the objective-and-design-drift research record.
 
 ## Relationship to Prior Work
 
@@ -82,6 +75,14 @@ The AIRM lab builds on two existing projects while leaving their published versi
 [Evidence-Centered AI Evaluation](https://honggaoc-star.github.io/practical-ai-evaluation/working-paper.html) provides the more direct institutional foundation. It argues that AI assurance should evaluate a defined system and use—not merely a model—and should consider evidence sufficiency, system boundaries, human reliance, testing, monitoring, change management, and conditional acceptance of residual risk.
 
 Together, these projects motivate a research program concerned with the practical management of AI risk across models, systems, workflows, users, and institutions.
+
+## Related Practical Work
+
+The following work addresses adjacent practical questions but remains independent of the research in this repository. These links are navigational: the projects do not share release claims, validation, or operating responsibilities, and no project below validates an AIRM paper or is validated by one.
+
+- **[Practical AI Management (PAIM)](https://github.com/honggaoc-star/PAIM)** is a practitioner-oriented management system for bounded organizational uses of AI. [PAIM v0.1.0](https://github.com/honggaoc-star/PAIM/releases/tag/v0.1.0) is released under its own bounded validated claim as a local governed CLI and typed Python gateway. That validation does not establish real-world organizational effectiveness or authorize consequential production reliance.
+- **AI Value Management (AIVM)** is identified in [PAIM's method boundary](https://github.com/honggaoc-star/PAIM#method-before-software) as an upstream analytical capability that can provide PAIM's Value leg. Risk remains a separate analytical leg, and PAIM remains responsible for its own management integration and decision record. The October 2026 public portfolio baseline does not identify a separate AIVM public release, so none is implied here.
+- **[PAE Workbench](https://honggaoc-star.github.io/practical-ai-evaluation/)** is the interactive public preview associated with [Practical AI Evaluation](https://github.com/honggaoc-star/practical-ai-evaluation). It is an educational prototype for assembling draft review evidence, not approval, certification, validation, proof of safety, a compliance conclusion, or professional advice.
 
 ## Repository Structure
 
@@ -94,6 +95,9 @@ AI-Risk-Management/
 │       ├── README.md
 │       ├── AI-Provenance-and-the-Evaluation-of-Intellectual-Work-v1.0.pdf
 │       └── AI-Provenance-and-the-Evaluation-of-Intellectual-Work-v1.0.docx
+├── Return-Weighted-Risk/
+│   ├── README.md
+│   └── Return-Weighted-Risk-for-Navigating-an-Evolving-AI-Landscape.pdf
 ├── Objective-and-Design-Drift-Detection/
 │   ├── README.md
 │   ├── Research-Exploration/
@@ -123,11 +127,9 @@ This structure is intentionally compact. New initiative, implementation, data, o
 
 ## Current Status
 
-AI Risk Management is at an early research-development stage. It currently contains three related initiatives. Objective and Design Drift Detection examines departures from user-authorized objectives, definitions, constraints, decisions, and conceptual architecture in extended human–AI collaboration. Analytical Framework on Model Error develops an authority-first method for evaluating discrepancies in delivered generative-AI responses and investigating their possible causes. Plausible Mechanisms for Hallucination in Generative AI Systems is a separate project for developing and evaluating mechanism-level hypotheses about hallucination.
+As of the October 2026 portfolio review, this repository provides four current public research papers: Return-Weighted Risk v1.1, the August 2026 authority-first model-error framework, the August 2026 hallucination-mechanisms manuscript, and the September 2026 AI provenance paper v1.0. Objective and Design Drift Detection remains active exploratory research. Earlier working papers and the superseded model-error note remain available as historical records.
 
-Separately, the [Essays](./Essays/) area now includes the September 2026 paper [*AI Provenance and the Evaluation of Intellectual Work: Rational Risk, Social Meaning, and Human–AI Performance*](./Essays/AI-Provenance-and-the-Evaluation-of-Intellectual-Work/README.md). It is a reader-facing paper relevant to AIRM's human–AI collaboration, institutional risk, evaluation, and governance scope and is not counted as an active initiative by placement alone.
-
-The current August 2026 manuscripts for the analytical framework and plausible-mechanisms initiatives are available for public comment and critical review. Public arXiv links will be added after records have been issued. The broader lab structure remains intended to support additional AI-risk-management studies only when they present distinct questions, sufficient conceptual development, and a clear relationship to the program.
+These works address related questions but do not constitute a unified theory, and their conclusions do not transfer automatically from one project to another. Unless an individual project record states otherwise, the work is conceptual or exploratory and should not be read as empirical validation of a method, control, application, or organizational practice.
 
 ## Working Boundaries
 
