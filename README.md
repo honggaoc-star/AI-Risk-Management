@@ -38,14 +38,16 @@ The program favors practical, evidence-centered work. A proposed control should 
 
 ## Research and Publication Guide
 
-The status descriptions below reflect the October 2026 portfolio review. Each project record remains authoritative for its own claims, version, evidence, and limitations.
+The project status descriptions below retain the October 2026 portfolio review; current-edition links reflect the approved publication update. Each project record remains authoritative for its own claims, version, evidence, and limitations.
 
 ### Completed and Publicly Released Research
 
-- **[Return-Weighted Risk (RWR)](./Return-Weighted-Risk/)** — [Working Paper v1.1, August 2026](./Return-Weighted-Risk/Return-Weighted-Risk-for-Navigating-an-Evolving-AI-Landscape.pdf). This is the accepted working-paper version, and the core manuscript project is closed for now. Its small-business-lending example is hypothetical; empirical validation remains future work.
-- **[An Analytical Framework for Error and Hallucination in Deployed Generative AI Systems](./Analytical-Framework-on-Model-Error/)** — [current manuscript, August 2026](./Analytical-Framework-on-Model-Error/An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.pdf). The paper develops the authority-first framework for evaluating delivered-response discrepancies. It is conceptual, is available for public comment and critical review, and does not claim established practical or empirical value.
-- **[Plausible Mechanisms for Hallucination in Generative AI Systems](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/)** — [current manuscript, August 2026](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.pdf). The manuscript is complete and prepared for prospective arXiv submission. Its mechanism families and propositions remain hypotheses rather than universally established causes.
-- **[AI Provenance and the Evaluation of Intellectual Work](./Essays/AI-Provenance-and-the-Evaluation-of-Intellectual-Work/README.md)** — [v1.0, September 2026](./Essays/AI-Provenance-and-the-Evaluation-of-Intellectual-Work/AI-Provenance-and-the-Evaluation-of-Intellectual-Work-v1.0.pdf). Version 1.0 is the current public version. The paper is maintained in the [Essays](./Essays/) area and is not an active research initiative by placement alone.
+- **[Return-Weighted Risk (RWR)](./Return-Weighted-Risk/)** — [Working Paper v1.2, August 2026](./Return-Weighted-Risk/Return-Weighted-Risk-for-Navigating-an-Evolving-AI-Landscape-v1.2.pdf). This is the accepted working-paper version, and the core manuscript project is closed for now. Its small-business-lending example is hypothetical; empirical validation remains future work.
+- **[An Analytical Framework for Error and Hallucination in Deployed Generative AI Systems](./Analytical-Framework-on-Model-Error/)** — [v1.3, September 2026](./Analytical-Framework-on-Model-Error/An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems-v1.3.pdf). The paper develops the authority-first framework for evaluating delivered-response discrepancies. It is conceptual, is available for public comment and critical review, and does not claim established practical or empirical value.
+- **[Plausible Mechanisms for Hallucination in Generative AI Systems](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/)** — [v1.2, October 2026](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems-v1.2.pdf). The manuscript is complete and prepared for prospective arXiv submission. Its mechanism families and propositions remain hypotheses rather than universally established causes.
+- **[AI Provenance and the Evaluation of Intellectual Work](./Essays/AI-Provenance-and-the-Evaluation-of-Intellectual-Work/README.md)** — [v1.1, September 2026](./Essays/AI-Provenance-and-the-Evaluation-of-Intellectual-Work/AI-Provenance-and-the-Evaluation-of-Intellectual-Work-v1.1.pdf). Version 1.1 is the current recommended publication edition. The paper is maintained in the [Essays](./Essays/) area and is not an active research initiative by placement alone.
+
+Each linked project record identifies one current recommended edition, provides its PDF and editable Word copy, and retains earlier editions in version history.
 
 Repository publication makes these works publicly available; it does not imply peer review, journal acceptance, operational certification, or empirical validation. Public arXiv links will be added only after the corresponding records have been issued.
 
@@ -61,6 +63,10 @@ Public arXiv records for the authority-first and hallucination-mechanisms manusc
 
 These materials remain accessible for provenance and continuity; they are not the current versions of the work they precede.
 
+- [Analytical Framework August 2026 manuscript](./Analytical-Framework-on-Model-Error/An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.pdf);
+- [Plausible Mechanisms August 2026 manuscript](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.pdf);
+- [Return-Weighted Risk v1.1, August 2026](./Return-Weighted-Risk/Return-Weighted-Risk-for-Navigating-an-Evolving-AI-Landscape.pdf), retained under its unversioned filename;
+- AI Provenance v1.0, September 2026: [PDF](./Essays/AI-Provenance-and-the-Evaluation-of-Intellectual-Work/AI-Provenance-and-the-Evaluation-of-Intellectual-Work-v1.0.pdf) and [Word](./Essays/AI-Provenance-and-the-Evaluation-of-Intellectual-Work/AI-Provenance-and-the-Evaluation-of-Intellectual-Work-v1.0.docx);
 - [Analytical Framework working paper v1.1, July 2026](./Analytical-Framework-on-Model-Error/Analytical-Framework-on-Model-Error-v1.1.pdf);
 - [legacy analytical-framework v1.0b folder](./Framework%20for%20Error%20Analysis/), retained temporarily;
 - [Hallucination Mechanisms working paper v1.0](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/Hallucination-Mechanisms-Working-Paper-v1.0.pdf); and
@@ -93,10 +99,14 @@ AI-Risk-Management/
 │   ├── README.md
 │   └── AI-Provenance-and-the-Evaluation-of-Intellectual-Work/
 │       ├── README.md
+│       ├── AI-Provenance-and-the-Evaluation-of-Intellectual-Work-v1.1.pdf   # current recommended edition
+│       ├── AI-Provenance-and-the-Evaluation-of-Intellectual-Work-v1.1.docx
 │       ├── AI-Provenance-and-the-Evaluation-of-Intellectual-Work-v1.0.pdf
 │       └── AI-Provenance-and-the-Evaluation-of-Intellectual-Work-v1.0.docx
 ├── Return-Weighted-Risk/
 │   ├── README.md
+│   ├── Return-Weighted-Risk-for-Navigating-an-Evolving-AI-Landscape-v1.2.pdf   # current recommended edition
+│   ├── Return-Weighted-Risk-for-Navigating-an-Evolving-AI-Landscape-v1.2.docx
 │   └── Return-Weighted-Risk-for-Navigating-an-Evolving-AI-Landscape.pdf
 ├── Objective-and-Design-Drift-Detection/
 │   ├── README.md
@@ -112,6 +122,8 @@ AI-Risk-Management/
 │       └── Model-Error-and-Mitigation.md  # superseded historical note
 ├── Analytical-Framework-on-Model-Error/
 │   ├── README.md
+│   ├── An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems-v1.3.pdf   # current recommended edition
+│   ├── An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems-v1.3.docx
 │   ├── An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.pdf
 │   └── Analytical-Framework-on-Model-Error-v1.1.pdf   # archived working paper
 ├── Framework for Error Analysis/  # legacy v1.0b folder retained temporarily
@@ -119,6 +131,8 @@ AI-Risk-Management/
 │   └── Framework for Error and Hallucination in Gen-AI Systems (v1.0b).pdf
 └── Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/
     ├── README.md
+    ├── Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems-v1.2.pdf   # current recommended edition
+    ├── Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems-v1.2.docx
     ├── Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.pdf
     └── Hallucination-Mechanisms-Working-Paper-v1.0.pdf   # archived working paper
 ```
@@ -127,7 +141,7 @@ This structure is intentionally compact. New initiative, implementation, data, o
 
 ## Current Status
 
-As of the October 2026 portfolio review, this repository provides four current public research papers: Return-Weighted Risk v1.1, the August 2026 authority-first model-error framework, the August 2026 hallucination-mechanisms manuscript, and the September 2026 AI provenance paper v1.0. Objective and Design Drift Detection remains active exploratory research. Earlier working papers and the superseded model-error note remain available as historical records.
+The October 2026 publication update identifies four current recommended research papers: Return-Weighted Risk v1.2 (August 2026), the authority-first model-error framework v1.3 (September 2026), the hallucination-mechanisms manuscript v1.2 (October 2026), and the AI provenance paper v1.1 (September 2026). Objective and Design Drift Detection remains active exploratory research. Earlier working papers and the superseded model-error note remain available as historical records.
 
 These works address related questions but do not constitute a unified theory, and their conclusions do not transfer automatically from one project to another. Unless an individual project record states otherwise, the work is conceptual or exploratory and should not be read as empirical validation of a method, control, application, or organizational practice.
 

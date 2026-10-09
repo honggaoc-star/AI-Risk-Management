@@ -8,18 +8,23 @@ The project examines a practical governance problem: organizations increasingly 
 
 The central question is straightforward: **given what the organization knows now about value and risk, does the evidence still support the same action?**
 
-## Current Manuscript
+## Current Recommended Edition
 
-Current version: **Working Paper v1.1, August 2026**
+Current version: **Working Paper v1.2, August 2026**
 
 **Title:** *Return-Weighted Risk for Navigating an Evolving AI Landscape: Reconnecting Risk with Value in AI Risk Management*
 
-- [View the current PDF](./Return-Weighted-Risk-for-Navigating-an-Evolving-AI-Landscape.pdf)
-- [Download the current PDF](https://raw.githubusercontent.com/honggaoc-star/AI-Risk-Management/refs/heads/main/Return-Weighted-Risk/Return-Weighted-Risk-for-Navigating-an-Evolving-AI-Landscape.pdf)
+- [Read the PDF](./Return-Weighted-Risk-for-Navigating-an-Evolving-AI-Landscape-v1.2.pdf) — recommended reading copy
+- [Word document](./Return-Weighted-Risk-for-Navigating-an-Evolving-AI-Landscape-v1.2.docx) — editable copy
+
+## Version History
+
+- **v1.2, August 2026:** current approved publication edition.
+- **Working Paper v1.1, August 2026:** previous accepted edition, retained at its unversioned filename: [View the PDF](./Return-Weighted-Risk-for-Navigating-an-Evolving-AI-Landscape.pdf) · [Download the PDF](https://raw.githubusercontent.com/honggaoc-star/AI-Risk-Management/refs/heads/main/Return-Weighted-Risk/Return-Weighted-Risk-for-Navigating-an-Evolving-AI-Landscape.pdf).
 
 ## Status
 
-Version 1.1 is the accepted working-paper version as of August 2026. The core manuscript project is closed for now. Subsequent public-sharing, repository, announcement, or dissemination activity does not by itself reopen the manuscript.
+Version 1.1 was the accepted working-paper version as of August 2026. Version 1.2 is the current recommended publication edition. The core manuscript project is closed for now. Subsequent public-sharing, repository, announcement, or dissemination activity does not by itself reopen the manuscript.
 
 The paper uses a **hypothetical small-business-lending example** to illustrate how RWR can change a continuing authorization decision as evidence develops. The example is illustrative rather than empirical evidence for the effectiveness of RWR. Empirical validation remains future work.
 

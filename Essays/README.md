@@ -6,4 +6,4 @@ Placement here does not change the meaning or count of the repository's Active R
 
 ## Current papers and essays
 
-- [*AI Provenance and the Evaluation of Intellectual Work: Rational Risk, Social Meaning, and Human–AI Performance*](AI-Provenance-and-the-Evaluation-of-Intellectual-Work/README.md) — v1.0, September 2026
+- [*AI Provenance and the Evaluation of Intellectual Work: Rational Risk, Social Meaning, and Human–AI Performance*](AI-Provenance-and-the-Evaluation-of-Intellectual-Work/README.md) — v1.1, September 2026
