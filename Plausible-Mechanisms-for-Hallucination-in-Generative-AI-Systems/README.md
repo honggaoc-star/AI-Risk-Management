@@ -4,19 +4,20 @@ This directory is the home of a research initiative within AI Risk Management.
 
 The project examines plausible mechanisms that may produce hallucination in generative AI systems. It keeps observed output discrepancies distinct from proposed causal explanations and treats candidate mechanisms as hypotheses whose scope and evidentiary support must be evaluated.
 
-## Current Manuscript
+## Current Recommended Edition
 
-Current version: **August 2026**
+**Version: v1.2 · October 2026**
 
-- [View the current PDF](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.pdf)
-- [Download the current PDF](https://raw.githubusercontent.com/honggaoc-star/AI-Risk-Management/refs/heads/main/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.pdf)
+- [Read the PDF](Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems-v1.2.pdf) — recommended reading copy
+- [Word document](Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems-v1.2.docx) — editable copy
 
-## Archived Working-Paper Version
+This is the approved publication edition. Earlier editions remain available below.
 
-Previously circulated version: **Working Paper v1.0**
+## Version History
 
-- [View the archived PDF](./Hallucination-Mechanisms-Working-Paper-v1.0.pdf)
-- [Download the archived PDF](https://raw.githubusercontent.com/honggaoc-star/AI-Risk-Management/refs/heads/main/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/Hallucination-Mechanisms-Working-Paper-v1.0.pdf)
+- **v1.2, October 2026:** current approved publication edition; PDF and Word links above.
+- **August 2026, unversioned manuscript:** [View the PDF](./Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.pdf) · [Download the PDF](https://raw.githubusercontent.com/honggaoc-star/AI-Risk-Management/refs/heads/main/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.pdf).
+- **Working Paper v1.0, July 2026:** [View the archived PDF](./Hallucination-Mechanisms-Working-Paper-v1.0.pdf) · [Download the archived PDF](https://raw.githubusercontent.com/honggaoc-star/AI-Risk-Management/refs/heads/main/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/Hallucination-Mechanisms-Working-Paper-v1.0.pdf).
 
 ## Relationship to Other Initiatives
 

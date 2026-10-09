@@ -1,5 +1,7 @@
 # Framework for Error and Hallucination in Deployed Generative AI Systems
 
+> **Historical record — v1.0b.** The text and PDF below are preserved as the earlier review record. For the current recommended edition, see the [Analytical Framework project](../Analytical-Framework-on-Model-Error/README.md).
+
 ## Overview
 
 This initiative develops an analytical framework for identifying, classifying, and investigating errors in responses delivered by deployed generative AI systems.

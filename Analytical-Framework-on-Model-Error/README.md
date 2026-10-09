@@ -1,26 +1,28 @@
 # An Analytical Framework for Error and Hallucination in Deployed Generative AI Systems
 
-## Current Manuscript
+## Current Recommended Edition
 
-Current version: **August 2026**
+**Version: v1.3 · September 2026**
 
-**[View the current PDF](./An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.pdf)**  
-[Download the current PDF](https://raw.githubusercontent.com/honggaoc-star/AI-Risk-Management/refs/heads/main/Analytical-Framework-on-Model-Error/An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.pdf)
+- [Read the PDF](An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems-v1.3.pdf) — recommended reading copy
+- [Word document](An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems-v1.3.docx) — editable copy
 
-## Archived Working-Paper Version
+This is the approved publication edition. Earlier editions remain available below.
 
-Previously circulated version: **Working Paper v1.1, July 2026**
+## Version History
 
-[View the archived PDF](./Analytical-Framework-on-Model-Error-v1.1.pdf)  
-[Download the archived PDF](https://raw.githubusercontent.com/honggaoc-star/AI-Risk-Management/refs/heads/main/Analytical-Framework-on-Model-Error/Analytical-Framework-on-Model-Error-v1.1.pdf)
+- **v1.3, September 2026:** current approved publication edition; PDF and Word links above.
+- **August 2026, unversioned manuscript:** [View the PDF](./An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.pdf) · [Download the PDF](https://raw.githubusercontent.com/honggaoc-star/AI-Risk-Management/refs/heads/main/Analytical-Framework-on-Model-Error/An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.pdf).
+- **Working Paper v1.1, July 2026:** [View the archived PDF](./Analytical-Framework-on-Model-Error-v1.1.pdf) · [Download the archived PDF](https://raw.githubusercontent.com/honggaoc-star/AI-Risk-Management/refs/heads/main/Analytical-Framework-on-Model-Error/Analytical-Framework-on-Model-Error-v1.1.pdf).
+- **Working Paper v1.0b, July 2026:** [Historical project record and PDF](../Framework%20for%20Error%20Analysis/README.md).
 
-## Abstract
+## Historical Abstract — August 2026 Manuscript
 
 Evaluation of errors in a deployed generative AI system presents two related problems. First, the information used to produce a response may differ from the information that should govern its evaluation. Second, identifying an error does not establish how the configured system produced it. This paper develops an authority-first framework that addresses these problems in sequence. For each assessable assertion, the framework identifies the governing reference and classifies the assertion as supported, contradicted, unsupported, or unresolved. In parallel, it compares the delivered response with applicable task obligations. These two evaluative branches support two related error classifications: hallucination, which concerns a representational claim contradicted by or lacking support required from its governing reference, and task-obligation fidelity error, which concerns failure to satisfy an applicable requirement. The framework then separates error classification from localization and causal attribution, and error occurrence from consequence. Applications to temporal change, continuing-project state, retrieval-augmented generation, and propagation show why evaluation and control selection should concern a configured system performing a specified task rather than a model name alone. The framework is conceptual, and its practical and empirical value remains to be tested.
 
 ## Status and Review
 
-The current manuscript revises v1.0b, which was previously circulated for public review. The revision clarifies the paper's authority-first focus and its relationship to a separate working paper completed shortly after v1.0b, *Plausible Mechanisms for Hallucination in Generative AI Systems: A Response-Production Framework*. [View the related project and current manuscript](../Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/).
+The August 2026 manuscript revised v1.0b, which was previously circulated for public review. That revision clarified the paper's authority-first focus and its relationship to a separate working paper completed shortly after v1.0b, *Plausible Mechanisms for Hallucination in Generative AI Systems: A Response-Production Framework*. [View the related project and current manuscript](../Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/).
 
 An arXiv link will be added after a public arXiv record has been issued.
 
